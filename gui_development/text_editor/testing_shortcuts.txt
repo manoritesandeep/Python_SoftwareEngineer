@@ -1,0 +1,7 @@
+"""
+This is the second test file for this editor... 
+Testing short cut keys
+New - Ctrl+N
+Open - Ctrl+O
+Save - Ctrl+S
+"""
